@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"b89af40a91dfda63","type":"file","file":"캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/s40544-022-0688-4.pdf","x":-600,"y":-400,"width":400,"height":400},
+		{"id":"77d977d1b1f7fc39","type":"text","text":" A predictive theoretical model based on friction laws for a soft","x":-180,"y":-400,"width":360,"height":80},
+		{"id":"bf3152f0e4ed7c69","type":"text","text":"논문에서는 자체 설계한 마찰 시험 플랫폼을 이용해 다양한 조건(건조, 수분 및 윤활유 조건)에서 지문 모사 패턴과 평활 표면의 마찰 계수(COF)를 측정했습니다","x":-160,"y":-260,"width":340,"height":120},
+		{"id":"66e847fe40892d1b","type":"text","text":"논문에서는 접촉 역학의 고전적 모델과 차원 축소 기법을 적용하여 지문 모사 돌출부의 각 부분에서 발생하는 마찰력을 이론적으로 유도하고, 기울기 보정 계수 fαf_{\\alpha}fα​를 실험적으로 피팅함으로써 예측 모델을 완성했습니다. 이후 정밀 마찰 시험 및 로봇 손 팁 핀치 테스트를 통해 이 이론적 모델이 실제 상황에서도 유효함을 증명함으로써, 마찰 법칙에 근거한 예측 모델이 어떻게 도출되고 입증되었는지를 보여주었습니다","x":-160,"y":-100,"width":340,"height":300},
+		{"id":"25674fe00047e49b","type":"file","file":"캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions.pdf","x":-600,"y":260,"width":400,"height":400},
+		{"id":"7bf0d317d7805d28","type":"text","text":"결론: horizontal pattern이 최고다 friction관점에서\n","x":-160,"y":260,"width":420,"height":60},
+		{"id":"fd46ffca411decd8","type":"text","text":"한계: 내가 생각하기에는 너무 단일화된 패턴을 사용 직선을 많이 사용","x":-160,"y":400,"width":420,"height":50},
+		{"id":"6e23b46ff407f2e6","type":"file","file":"캡쳐사진 모음/Pasted image 20250416230411.png","x":-160,"y":540,"width":400,"height":141}
+	],
+	"edges":[
+		{"id":"2a97b64300928ddd","fromNode":"b89af40a91dfda63","fromSide":"right","toNode":"77d977d1b1f7fc39","toSide":"left"},
+		{"id":"c78b6ab54bee5eb6","fromNode":"77d977d1b1f7fc39","fromSide":"bottom","toNode":"bf3152f0e4ed7c69","toSide":"top"},
+		{"id":"e41ca1ee6c221ab6","fromNode":"bf3152f0e4ed7c69","fromSide":"bottom","toNode":"66e847fe40892d1b","toSide":"top"},
+		{"id":"ea57999d8b891769","fromNode":"7bf0d317d7805d28","fromSide":"bottom","toNode":"fd46ffca411decd8","toSide":"top"},
+		{"id":"8e479eab62a38d5e","fromNode":"25674fe00047e49b","fromSide":"right","toNode":"7bf0d317d7805d28","toSide":"left"},
+		{"id":"d5a55ea169e0989f","fromNode":"fd46ffca411decd8","fromSide":"bottom","toNode":"6e23b46ff407f2e6","toSide":"top"}
+	]
+}

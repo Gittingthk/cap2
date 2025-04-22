@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "e6280914e208cc7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c668e1696b89d397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "466a37d00517c565",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "캡스톤디자인 2/Soft Robotics/reference/Review/Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing.pdf",
+                "page": 4,
+                "left": -8,
+                "top": 363,
+                "zoom": 1.7941257500722358
+              },
+              "icon": "lucide-file-text",
+              "title": "Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f061b4acbeeb18f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "82b6179aef58fdc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db021628ccf31fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5061eb805fc92665",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "454abd65b510d2cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "620704063541882d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5e43351d8d6c01b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18953b8f81367f9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Angew Chem Int Ed - 2018 - Whitesides - Soft Robotics.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Angew Chem Int Ed - 2018 - Whitesides - Soft Robotics"
+            }
+          },
+          {
+            "id": "294cd53285d64c3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "캡스톤디자인 2/Soft Robotics/reference/Review/Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing"
+            }
+          },
+          {
+            "id": "8ca2165472e2abdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "01d4e75234253b9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Angew Chem Int Ed - 2018 - Whitesides - Soft Robotics.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Angew Chem Int Ed - 2018 - Whitesides - Soft Robotics"
+            }
+          },
+          {
+            "id": "2b83f252bdb2a348",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "translate:Open translation view": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "466a37d00517c565",
+  "lastOpenFiles": [
+    "캡스톤디자인 2/Soft Robotics/reference/Review/Advanced Science - 2023 - Joe - Jointless Bioinspired Soft Robotics by Harnessing Micro and Macroporosity.pdf",
+    "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions.pdf",
+    "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/s40544-022-0688-4.pdf",
+    "캡스톤디자인 2/Soft Robotics/reference/Review/Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing.pdf",
+    "캡스톤디자인 2/Soft Robotics/reference/Review/Advanced Materials - 2018 - Shintake - Soft Robotic Grippers.pdf",
+    "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
+    "인허가 시험용/인허가 수업/-임상시험/-임상시험/[별지 제19호서식] 의료기기 임상시험계획승인신청서(의료기기법 시행규칙).pdf",
+    "인허가 시험용/인허가 수업/-임상시험/-임상시험/[별표 3] 의료기기 임상시험 관리기준(제24조제1항 관련)(의료기기법 시행규칙).pdf",
+    "인허가 시험용/인허가 수업/-임상시험/-임상시험/참고 자료/의료기기 임상시험계획서 작성을 위한 가이드라인인공추간판.pdf",
+    "인허가 시험용/인허가 수업/-임상시험/-임상시험/참고 자료/의료기기 임상시험계획서 작성을 위한 가이드라인인공무릎관절.pdf",
+    "인허가 시험용/인허가 수업/-임상시험/-임상시험/참고 자료/유헬스케어진단지원시스템임상시험계획서+작성+가이드라인(민원인+안내서).pdf",
+    "인허가 시험용/인허가 수업/의료기기법 2025.03/의료기기 유통 및 판매질서 유지에 관한 규칙(보건복지부령)(제01088호)(20250209).pdf",
+    "인허가 시험용/정리.canvas",
+    "캡쳐사진 모음/Pasted image 20250416230411.png",
+    "캡스톤디자인 2/캡디 활용 방안과 문제점.md",
+    "Pasted image 20250416225115.png",
+    "캡스톤디자인 2/Soft Robotics/Configure.md",
+    "Highlights for Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions.md",
+    "Highlights for Angew Chem Int Ed - 2018 - Whitesides - Soft Robotics.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Soft Robotics/reference/Fricitoin_Enhance/Untitled.md"
+  ]
+}
