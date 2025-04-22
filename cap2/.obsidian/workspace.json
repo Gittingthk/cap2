@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "캡스톤디자인 2/Soft Robotics/reference/Review/Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing.pdf",
-                "page": 3,
-                "left": -8,
-                "top": 376,
-                "zoom": 1.7941257500722356
+                "page": 5,
+                "left": -7,
+                "top": 747,
+                "zoom": 2.0461097037340665
               },
               "icon": "lucide-file-text",
               "title": "Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing"
@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
