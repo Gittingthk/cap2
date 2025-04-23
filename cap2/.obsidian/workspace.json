@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "e6280914e208cc7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5067a0df9e9325c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01d54691a3cbff33",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "인허가 시험용/인허가 수업/체외진단의료기기법/체외진단의료기기법/체외진단의료기기법 시행규칙(총리령)(제02002호)(20241223).pdf",
+                "page": 1,
+                "left": -7,
+                "top": 846,
+                "zoom": 2.047058823529412
+              },
+              "icon": "lucide-file-text",
+              "title": "체외진단의료기기법 시행규칙(총리령)(제02002호)(20241223)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f061b4acbeeb18f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "82b6179aef58fdc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db021628ccf31fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5061eb805fc92665",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "454abd65b510d2cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "620704063541882d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5e43351d8d6c01b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18953b8f81367f9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Angew Chem Int Ed - 2018 - Whitesides - Soft Robotics.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Angew Chem Int Ed - 2018 - Whitesides - Soft Robotics"
+            }
+          },
+          {
+            "id": "294cd53285d64c3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "캡스톤디자인 2/Soft Robotics/reference/Review/Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing"
+            }
+          },
+          {
+            "id": "8ca2165472e2abdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "01d4e75234253b9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Angew Chem Int Ed - 2018 - Whitesides - Soft Robotics.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Angew Chem Int Ed - 2018 - Whitesides - Soft Robotics"
+            }
+          },
+          {
+            "id": "2b83f252bdb2a348",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "translate:Open translation view": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false,
+      "smart-composer:Open smart composer": false
+    }
+  },
+  "active": "0db021628ccf31fe",
+  "lastOpenFiles": [
+    "인허가 시험용/인허가 수업/체외진단의료기기법/체외진단의료기기법/체외진단의료기기법(법률)(제20900호)(20250401).pdf",
+    "인허가 시험용/인허가 수업/체외진단의료기기법/체외진단의료기기법/체외진단의료기기법 시행령(대통령령)(제33913호)(20231212).pdf",
+    "인허가 시험용/인허가 수업/체외진단의료기기법/체외진단의료기기법/체외진단의료기기법 시행규칙(총리령)(제02002호)(20241223).pdf",
+    "인허가 시험용/인허가 수업/체외진단의료기기법/체외진단의료기기법/AMD_체외진단의료기기/조문별 제·개정이유서 (1).pdf",
+    "인허가 시험용/인허가 수업/체외진단의료기기법/체외진단의료기기법/AMD_체외진단의료기기/[별표] 체외진단의료기기 품목 및 품목별 등급(체외진단의료기기 품목 및 품목별 등급에 관한 규정).pdf",
+    "인허가 시험용/인허가 수업/-임상시험/-임상시험/의약품 등 임상시험 실시기관 지정에 관한 규정(식품의약품안전처고시)(제2016-24호)(20160401).pdf",
+    "인허가 시험용/인허가 수업/-임상시험/-임상시험/의료기기 임상시험 관리기준(식품의약품안전청고시)(제2010-77호)(20101029).pdf",
+    "인허가 시험용/인허가 수업/-임상시험/-임상시험/[별표 3] 의료기기 임상시험 관리기준(제24조제1항 관련)(의료기기법 시행규칙).pdf",
+    "인허가 시험용/인허가 수업/-임상시험/-임상시험/[별지 제19호서식] 의료기기 임상시험계획승인신청서(의료기기법 시행규칙).pdf",
+    "인허가 시험용/인허가 수업/-임상시험/-임상시험/의약품등임상시험실시기관지정에관한규정(식품의약품안전청고시)(제2008-27호)(20080526).pdf",
+    "인허가 시험용/인허가 수업/-인체조직안전 법/-인체조직안전 법/조직은행 허가 및 인체조직 안전관리 등에 관한 규정(식품의약품안전처고시)(제2021-92호)(20211116).pdf",
+    "인허가 시험용 1/정리.canvas",
+    "docker/Untitled.canvas",
+    "캡쳐사진 모음/Pasted image 20250423154622.png",
+    "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
+    "캡스톤디자인 2/로봇팔/전체 시스템 구성.md",
+    "캡스톤디자인 2/로봇팔/관련 링크들.canvas",
+    "캡스톤디자인 2/로봇팔/로봇팔 아키텍쳐.md",
+    "Untitled Diagram.svg",
+    "인허가 시험용/정리.canvas",
+    "캡쳐사진 모음/Pasted image 20250416230411.png",
+    "캡스톤디자인 2/캡디 활용 방안과 문제점.md",
+    "Pasted image 20250416225115.png",
+    "캡스톤디자인 2/Soft Robotics/Configure.md",
+    "Highlights for Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions.md",
+    "Highlights for Angew Chem Int Ed - 2018 - Whitesides - Soft Robotics.md",
+    "Soft Robotics/reference/Fricitoin_Enhance/Untitled.md"
+  ]
+}
