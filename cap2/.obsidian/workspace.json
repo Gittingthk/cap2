@@ -11,14 +11,17 @@
             "id": "466a37d00517c565",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "캡스톤디자인 2/로봇팔/전체 시스템 구성.md",
-                "mode": "source",
-                "source": false
+                "file": "캡스톤디자인 2/로봇팔/Untitled.canvas",
+                "viewState": {
+                  "x": -190,
+                  "y": -160,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "전체 시스템 구성"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -184,12 +187,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0db021628ccf31fe",
+  "active": "466a37d00517c565",
   "lastOpenFiles": [
-    "캡스톤디자인 2/로봇팔/로봇팔 아키텍쳐.md",
     "캡스톤디자인 2/로봇팔/so100_architecture.drawio",
-    "캡스톤디자인 2/로봇팔",
+    "캡스톤디자인 2/로봇팔/Untitled.canvas",
     "캡스톤디자인 2/로봇팔/전체 시스템 구성.md",
+    "캡스톤디자인 2/로봇팔/로봇팔 아키텍쳐.md",
+    "캡스톤디자인 2/로봇팔",
     "Untitled Diagram.svg",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
     "캡스톤디자인 2/Soft Robotics/reference/Review/2409.07662v1.pdf",

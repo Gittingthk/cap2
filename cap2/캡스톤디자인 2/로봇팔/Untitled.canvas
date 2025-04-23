@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"4863302fa4c13c0a","x":-580,"y":-300,"width":320,"height":280,"type":"link","url":"https://github.com/daconjurer/fastapi-ros2"},
+		{"id":"09d1781cbce35fc7","x":-140,"y":-300,"width":340,"height":280,"type":"link","url":"https://github.com/tud-phi/sr-ros2-bundles"}
+	],
+	"edges":[]
+}
