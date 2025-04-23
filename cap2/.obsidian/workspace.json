@@ -11,17 +11,16 @@
             "id": "466a37d00517c565",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
-                "viewState": {
-                  "x": 327.36070686070684,
-                  "y": 138.02785862785862,
-                  "zoom": -0.30576124771454327
-                }
+                "file": "캡스톤디자인 2/Soft Robotics/reference/Review/2409.07662v1.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 796,
+                "zoom": 1.9901960784313726
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "정리"
+              "icon": "lucide-file-text",
+              "title": "2409.07662v1"
             }
           }
         ]
@@ -189,8 +188,9 @@
   },
   "active": "466a37d00517c565",
   "lastOpenFiles": [
-    "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/s40544-022-0688-4.pdf",
+    "캡스톤디자인 2/Soft Robotics/reference/Review/Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
+    "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/s40544-022-0688-4.pdf",
     "캡스톤디자인 2/로봇팔/전체 시스템 구성.md",
     "캡스톤디자인 2/로봇팔/관련 링크들.canvas",
     "캡스톤디자인 2/Soft Robotics/reference/Review/robotics-12-00107.pdf",
@@ -201,11 +201,9 @@
     "Untitled Diagram.svg",
     "캡스톤디자인 2/Soft Robotics/reference/Review/2409.07662v1.pdf",
     "docker/Untitled.canvas",
-    "캡스톤디자인 2/Soft Robotics/reference/Review/Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing.pdf",
     "docker",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Review/Advanced Materials - 2018 - Shintake - Soft Robotic Grippers.pdf",
-    "캡스톤디자인 2/Soft Robotics/reference/Review/s41467-025-57741-6.pdf",
     "인허가 시험용/정리.canvas",
     "캡쳐사진 모음/Pasted image 20250416230411.png",
     "캡스톤디자인 2/캡디 활용 방안과 문제점.md",
