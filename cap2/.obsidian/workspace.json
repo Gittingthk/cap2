@@ -11,17 +11,14 @@
             "id": "466a37d00517c565",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
-                "viewState": {
-                  "x": 462.75358145182156,
-                  "y": 48.65139015875927,
-                  "zoom": -0.6390945810478765
-                }
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "정리"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -189,6 +186,8 @@
   },
   "active": "466a37d00517c565",
   "lastOpenFiles": [
+    "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
+    "Untitled.md",
     "캡스톤디자인 2/Soft Robotics/reference/Review/2409.07662v1.pdf",
     "docker/Untitled.canvas",
     "캡스톤디자인 2/Soft Robotics/reference/Review/Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing.pdf",
@@ -200,8 +199,6 @@
     "캡스톤디자인 2/Soft Robotics/reference/Review/Angew Chem Int Ed - 2018 - Whitesides - Soft Robotics.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Review/Advanced Science - 2023 - Joe - Jointless Bioinspired Soft Robotics by Harnessing Micro and Macroporosity.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/s40544-022-0688-4.pdf",
-    "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
-    "인허가 시험용/인허가 수업/-임상시험/-임상시험/[별지 제19호서식] 의료기기 임상시험계획승인신청서(의료기기법 시행규칙).pdf",
     "인허가 시험용/정리.canvas",
     "캡쳐사진 모음/Pasted image 20250416230411.png",
     "캡스톤디자인 2/캡디 활용 방안과 문제점.md",
@@ -209,7 +206,6 @@
     "캡스톤디자인 2/Soft Robotics/Configure.md",
     "Highlights for Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions.md",
     "Highlights for Angew Chem Int Ed - 2018 - Whitesides - Soft Robotics.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Soft Robotics/reference/Fricitoin_Enhance/Untitled.md"
   ]
