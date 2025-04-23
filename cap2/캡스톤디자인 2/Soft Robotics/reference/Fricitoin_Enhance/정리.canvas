@@ -9,7 +9,7 @@
 		{"id":"fd46ffca411decd8","type":"text","text":"한계: 내가 생각하기에는 너무 단일화된 패턴을 사용 직선을 많이 사용","x":-160,"y":400,"width":420,"height":50},
 		{"id":"6e23b46ff407f2e6","type":"file","file":"캡쳐사진 모음/Pasted image 20250416230411.png","x":-160,"y":540,"width":400,"height":141},
 		{"id":"f8f3c064e7d0e695","type":"file","file":"캡스톤디자인 2/Soft Robotics/reference/Review/2409.07662v1.pdf","x":340,"y":-400,"width":440,"height":400},
-		{"id":"2b3cbe96a34694e9","type":"text","text":"open source","x":960,"y":-400,"width":250,"height":60}
+		{"id":"2b3cbe96a34694e9","type":"text","text":"전체적인 워크 플로우 비교시 참고할 만함","x":840,"y":-400,"width":360,"height":140}
 	],
 	"edges":[
 		{"id":"2a97b64300928ddd","fromNode":"b89af40a91dfda63","fromSide":"right","toNode":"77d977d1b1f7fc39","toSide":"left"},
