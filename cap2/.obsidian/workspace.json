@@ -11,17 +11,16 @@
             "id": "466a37d00517c565",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "docker/Untitled.canvas",
-                "viewState": {
-                  "x": -340,
-                  "y": -370,
-                  "zoom": 0
-                }
+                "file": "인허가 시험용/인허가 수업/-실험동물 법/-실험동물 법/실험동물에 관한 법률 시행규칙(총리령)(제01601호)(20200320).pdf",
+                "page": 1,
+                "left": -7,
+                "top": 846,
+                "zoom": 2.047058823529412
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "실험동물에 관한 법률 시행규칙(총리령)(제01601호)(20200320)"
             }
           }
         ]
@@ -189,6 +188,7 @@
   },
   "active": "466a37d00517c565",
   "lastOpenFiles": [
+    "docker/Untitled.canvas",
     "캡쳐사진 모음/Pasted image 20250423154622.png",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/s40544-022-0688-4.pdf",
@@ -202,7 +202,6 @@
     "캡스톤디자인 2/로봇팔/로봇팔 아키텍쳐.md",
     "캡스톤디자인 2/로봇팔",
     "Untitled Diagram.svg",
-    "docker/Untitled.canvas",
     "docker",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Review/Advanced Materials - 2018 - Shintake - Soft Robotic Grippers.pdf",
