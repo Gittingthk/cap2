@@ -11,12 +11,14 @@
             "id": "466a37d00517c565",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
+              "type": "markdown",
               "state": {
-                "file": "so100_architecture.drawio"
+                "file": "캡스톤디자인 2/로봇팔/전체 시스템 구성.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "so100_architecture.drawio"
+              "title": "전체 시스템 구성"
             }
           }
         ]
@@ -184,10 +186,10 @@
   },
   "active": "0db021628ccf31fe",
   "lastOpenFiles": [
+    "캡스톤디자인 2/로봇팔/로봇팔 아키텍쳐.md",
+    "캡스톤디자인 2/로봇팔/so100_architecture.drawio",
     "캡스톤디자인 2/로봇팔",
-    "Untitled 1.md",
-    "so100_architecture.drawio",
-    "Untitled.md",
+    "캡스톤디자인 2/로봇팔/전체 시스템 구성.md",
     "Untitled Diagram.svg",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
     "캡스톤디자인 2/Soft Robotics/reference/Review/2409.07662v1.pdf",
@@ -199,7 +201,6 @@
     "캡스톤디자인 2/Soft Robotics/reference/Review/s41467-025-57741-6.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Review/Learning_Object_Grasping_for_Soft_Robot_Hands.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Review/Angew Chem Int Ed - 2018 - Whitesides - Soft Robotics.pdf",
-    "캡스톤디자인 2/Soft Robotics/reference/Review/Advanced Science - 2023 - Joe - Jointless Bioinspired Soft Robotics by Harnessing Micro and Macroporosity.pdf",
     "인허가 시험용/정리.canvas",
     "캡쳐사진 모음/Pasted image 20250416230411.png",
     "캡스톤디자인 2/캡디 활용 방안과 문제점.md",
