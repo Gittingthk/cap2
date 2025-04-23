@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "docker/Untitled.canvas",
+                "file": "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
                 "viewState": {
-                  "x": 14,
-                  "y": -276,
-                  "zoom": 0
+                  "x": -170,
+                  "y": 25.545426195426188,
+                  "zoom": -0.30576124771454327
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "정리"
             }
           }
         ]
@@ -189,8 +189,9 @@
   },
   "active": "466a37d00517c565",
   "lastOpenFiles": [
-    "캡스톤디자인 2/Soft Robotics/reference/Review/Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing.pdf",
+    "캡스톤디자인 2/Soft Robotics/reference/Review/2409.07662v1.pdf",
     "docker/Untitled.canvas",
+    "캡스톤디자인 2/Soft Robotics/reference/Review/Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing.pdf",
     "docker",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Review/Advanced Materials - 2018 - Shintake - Soft Robotic Grippers.pdf",
