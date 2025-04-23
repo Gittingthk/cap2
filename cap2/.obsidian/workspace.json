@@ -11,16 +11,17 @@
             "id": "466a37d00517c565",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "캡스톤디자인 2/Soft Robotics/reference/Review/2409.07662v1.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 796,
-                "zoom": 1.9901960784313726
+                "file": "docker/Untitled.canvas",
+                "viewState": {
+                  "x": -340,
+                  "y": -370,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "2409.07662v1"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -188,18 +189,19 @@
   },
   "active": "466a37d00517c565",
   "lastOpenFiles": [
-    "캡스톤디자인 2/Soft Robotics/reference/Review/Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing.pdf",
+    "캡쳐사진 모음/Pasted image 20250423154622.png",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/s40544-022-0688-4.pdf",
+    "캡스톤디자인 2/Soft Robotics/reference/Review/1-s2.0-S0924424724003571-main.pdf",
+    "캡스톤디자인 2/Soft Robotics/reference/Review/2409.07662v1.pdf",
+    "캡스톤디자인 2/Soft Robotics/reference/Review/Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing.pdf",
     "캡스톤디자인 2/로봇팔/전체 시스템 구성.md",
     "캡스톤디자인 2/로봇팔/관련 링크들.canvas",
     "캡스톤디자인 2/Soft Robotics/reference/Review/robotics-12-00107.pdf",
-    "캡스톤디자인 2/Soft Robotics/reference/Review/1-s2.0-S0924424724003571-main.pdf",
     "캡스톤디자인 2/로봇팔/so100_architecture.drawio",
     "캡스톤디자인 2/로봇팔/로봇팔 아키텍쳐.md",
     "캡스톤디자인 2/로봇팔",
     "Untitled Diagram.svg",
-    "캡스톤디자인 2/Soft Robotics/reference/Review/2409.07662v1.pdf",
     "docker/Untitled.canvas",
     "docker",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions.pdf",

@@ -9,7 +9,8 @@
 		{"id":"fd46ffca411decd8","type":"text","text":"한계: 내가 생각하기에는 너무 단일화된 패턴을 사용 직선을 많이 사용","x":-160,"y":400,"width":420,"height":50},
 		{"id":"6e23b46ff407f2e6","type":"file","file":"캡쳐사진 모음/Pasted image 20250416230411.png","x":-160,"y":540,"width":400,"height":141},
 		{"id":"f8f3c064e7d0e695","type":"file","file":"캡스톤디자인 2/Soft Robotics/reference/Review/2409.07662v1.pdf","x":340,"y":-400,"width":440,"height":400},
-		{"id":"2b3cbe96a34694e9","type":"text","text":"전체적인 워크 플로우 비교시 참고할 만함","x":840,"y":-400,"width":360,"height":140}
+		{"id":"2b3cbe96a34694e9","type":"text","text":"전체적인 워크 플로우 비교시 참고할 만함","x":840,"y":-400,"width":360,"height":140},
+		{"id":"d25b46acbd8ab036","type":"file","file":"캡쳐사진 모음/Pasted image 20250423154622.png","x":840,"y":-200,"width":399,"height":224}
 	],
 	"edges":[
 		{"id":"2a97b64300928ddd","fromNode":"b89af40a91dfda63","fromSide":"right","toNode":"77d977d1b1f7fc39","toSide":"left"},
@@ -17,6 +18,8 @@
 		{"id":"e41ca1ee6c221ab6","fromNode":"bf3152f0e4ed7c69","fromSide":"bottom","toNode":"66e847fe40892d1b","toSide":"top"},
 		{"id":"ea57999d8b891769","fromNode":"7bf0d317d7805d28","fromSide":"bottom","toNode":"fd46ffca411decd8","toSide":"top"},
 		{"id":"8e479eab62a38d5e","fromNode":"25674fe00047e49b","fromSide":"right","toNode":"7bf0d317d7805d28","toSide":"left"},
-		{"id":"d5a55ea169e0989f","fromNode":"fd46ffca411decd8","fromSide":"bottom","toNode":"6e23b46ff407f2e6","toSide":"top"}
+		{"id":"d5a55ea169e0989f","fromNode":"fd46ffca411decd8","fromSide":"bottom","toNode":"6e23b46ff407f2e6","toSide":"top"},
+		{"id":"62bbbecf9823ae6b","fromNode":"2b3cbe96a34694e9","fromSide":"right","toNode":"d25b46acbd8ab036","toSide":"right"},
+		{"id":"09dde0b337e9f9dc","fromNode":"f8f3c064e7d0e695","fromSide":"right","toNode":"2b3cbe96a34694e9","toSide":"left"}
 	]
 }
