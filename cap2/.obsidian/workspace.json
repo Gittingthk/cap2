@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "캡스톤디자인 2/Soft Robotics/reference/Review/Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing.pdf",
-                "page": 6,
+                "page": 14,
                 "left": -7,
-                "top": 13,
+                "top": 704,
                 "zoom": 2.0461097037340665
               },
               "icon": "lucide-file-text",
@@ -173,7 +173,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,48 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "a2d79df314595fb5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a0dcbd591fa3fb40",
-        "type": "window",
-        "children": [
-          {
-            "id": "97f61b9ad401432c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d9031d82a2833b55",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "캡스톤디자인 2/Soft Robotics/reference/Review/Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing.pdf",
-                    "page": 7,
-                    "left": -6,
-                    "top": 336,
-                    "zoom": 2.3535301272015006
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Adv Materials Technologies - 2021 - Dou - Soft Robotic Manipulators  Designs  Actuation  Stiffness Tuning  and Sensing"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 458,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d9031d82a2833b55",
+  "active": "466a37d00517c565",
   "lastOpenFiles": [
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Review/Advanced Materials - 2018 - Shintake - Soft Robotic Grippers.pdf",
