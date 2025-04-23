@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c668e1696b89d397",
+        "id": "5067a0df9e9325c3",
         "type": "tabs",
         "children": [
           {
-            "id": "466a37d00517c565",
+            "id": "01d54691a3cbff33",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "인허가 시험용/인허가 수업/기술문서와 생물학적 안전성 관련 자료/4주차- 기술문서와 생물학적 안전성 관련 자료_2023-1/CMC_QbD.pdf",
+                "file": "인허가 시험용/인허가 수업/기술문서와 생물학적 안전성 관련 자료/4주차- 기술문서와 생물학적 안전성 관련 자료_2023-1/Understanding FDA Regulatory Requirements for Investigational New Drug Applications for Sponsor-Investigators.pdf",
                 "page": 1,
                 "left": -8,
-                "top": 846,
-                "zoom": 2.0463022075871105
+                "top": 796,
+                "zoom": 1.9322916666666667
               },
               "icon": "lucide-file-text",
-              "title": "CMC_QbD"
+              "title": "Understanding FDA Regulatory Requirements for Investigational New Drug Applications for Sponsor-Investigators"
             }
           }
         ]
@@ -186,9 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "466a37d00517c565",
+  "active": "01d54691a3cbff33",
   "lastOpenFiles": [
     "인허가 시험용/인허가 수업/기술문서와 생물학적 안전성 관련 자료/4주차- 기술문서와 생물학적 안전성 관련 자료_2023-1/2019년+한국의료기기안전정보원+주요사업안내.pdf",
+    "인허가 시험용/인허가 수업/기술문서와 생물학적 안전성 관련 자료/4주차- 기술문서와 생물학적 안전성 관련 자료_2023-1/CMC_QbD.pdf",
     "인허가 시험용/인허가 수업/기술문서와 생물학적 안전성 관련 자료/4주차- 기술문서와 생물학적 안전성 관련 자료_2023-1/4. [의료기기정보기술지원센터]15년도지원사업안내.pdf",
     "인허가 시험용/인허가 수업/의료기기법 2025.03/[별표] 의료기기의 등급분류 및 지정에 관한 기준과 절차(제2조 관련)(의료기기법 시행규칙)-merged.pdf",
     "인허가 시험용/인허가 수업/의료기기법 2025.03/의료기기법(법률)(제20512호)(20250209).pdf",
@@ -198,7 +199,6 @@
     "인허가 시험용/인허가 수업/의료기기법 2025.03/의료기기 유통 및 판매질서 유지에 관한 규칙(보건복지부령)(제01088호)(20250209).pdf",
     "인허가 시험용/인허가 수업/의료기기법 2025.03/동물용 의약품등 취급규칙(농림축산식품부령)(제00628호)(20240105).pdf",
     "인허가 시험용/인허가 수업/-실험동물 법/-실험동물 법/실험동물에 관한 법률 시행령(대통령령)(제33112호)(20221220).pdf",
-    "인허가 시험용/인허가 수업/-실험동물 법/-실험동물 법/실험동물에 관한 법률(법률)(제18853호)(20230427).pdf",
     "docker/Untitled.canvas",
     "캡쳐사진 모음/Pasted image 20250423154622.png",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
