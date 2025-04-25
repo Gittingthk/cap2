@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "압축관련 논문/A-pre-screening-study-of-honeycomb-sandwich-str_2022_Composites-Part-A--Appl.pdf",
+                "file": "압축관련 논문/polymers-17-00862.pdf",
                 "page": 1,
                 "left": -7,
-                "top": 797,
-                "zoom": 2.0461097002968214
+                "top": 846,
+                "zoom": 2.0461097037340665
               },
               "icon": "lucide-file-text",
-              "title": "A-pre-screening-study-of-honeycomb-sandwich-str_2022_Composites-Part-A--Appl"
+              "title": "polymers-17-00862"
             }
           }
         ]
@@ -198,11 +198,13 @@
       "print:Print note": false
     }
   },
-  "active": "481f651979573631",
+  "active": "0db021628ccf31fe",
   "lastOpenFiles": [
+    "압축관련 논문/중요도 높음",
+    "압축관련 논문/A-pre-screening-study-of-honeycomb-sandwich-str_2022_Composites-Part-A--Appl.pdf",
+    "압축관련 논문/polymers-17-00862.pdf",
     "압축관련 논문/1-s2.0-S1270963820307896-main.pdf",
     "압축관련 논문/Multiscale-mechanical-design-of-the-lightweight--stiff--and-d_2022_Acta-Biom.pdf",
-    "압축관련 논문/A-pre-screening-study-of-honeycomb-sandwich-str_2022_Composites-Part-A--Appl.pdf",
     "압축관련 논문/1-s2.0-S2352431617301347-main.pdf",
     "압축관련 논문/9a61d6b13da64cbfe1f642e4747951eb_MIT3_054S15_L5_outpl_trans.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Review/1-s2.0-S0924424724003571-main.pdf",
@@ -211,12 +213,10 @@
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/s40544-022-0688-4.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions.pdf",
     "캡스톤디자인 2/캡디 활용 방안과 문제점.md",
-    "캡스톤디자인 2/로봇팔/so100_architecture.drawio",
     "캡스톤디자인 2/로봇팔/전체 시스템 구성.md",
     "캡스톤디자인 2/로봇팔/관련 링크들.canvas",
     "docker/Untitled.canvas",
     "캡쳐사진 모음/Untitled Diagram.svg",
-    "인허가 시험용/인허가 수업/혁신의료기기법/혁신의료기기법/AMD_혁신의료기기 법/의료기기산업 육성 및 혁신의료기기 지원법_설명.pdf",
     "인허가 시험용/정리.canvas",
     "인허가 시험용 1/정리.canvas",
     "캡쳐사진 모음/Pasted image 20250423154622.png",
