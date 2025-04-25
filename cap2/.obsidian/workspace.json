@@ -11,16 +11,17 @@
             "id": "481f651979573631",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "압축관련 논문/Multiscale-mechanical-design-of-the-lightweight--stiff--and-d_2022_Acta-Biom.pdf",
-                "page": 2,
-                "left": -7,
-                "top": 467,
-                "zoom": 2.046216263891339
+                "file": "압축관련 논문/Untitled.canvas",
+                "viewState": {
+                  "x": 1241.7169816020016,
+                  "y": 57.64045523610604,
+                  "zoom": 0.49177672702662284
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Multiscale-mechanical-design-of-the-lightweight--stiff--and-d_2022_Acta-Biom"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -200,6 +201,7 @@
   },
   "active": "481f651979573631",
   "lastOpenFiles": [
+    "압축관련 논문/Multiscale-mechanical-design-of-the-lightweight--stiff--and-d_2022_Acta-Biom.pdf",
     "압축관련 논문/Untitled.canvas",
     "압축관련 논문/1-s2.0-S0264127520304640-main.pdf",
     "압축관련 논문/1-s2.0-S2214914722002471-main (1).pdf",
