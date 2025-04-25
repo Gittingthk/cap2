@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"9c42a3cf32d1529f","x":-1017,"y":-433,"width":400,"height":400,"type":"link","url":"https://www.sciencedirect.com/"},
+		{"id":"e55059589a8effce","x":-200,"y":-200,"width":400,"height":400,"type":"link","url":"https://www.sciencedirect.com/science/article/pii/S0020740324008257"}
+	],
+	"edges":[]
+}
