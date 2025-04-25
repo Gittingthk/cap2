@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/s40544-022-0688-4.pdf",
+                "file": "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions.pdf",
                 "page": 1,
                 "left": -7,
-                "top": 795,
-                "zoom": 2.047058823529412
+                "top": 796,
+                "zoom": 2.0505050505050506
               },
               "icon": "lucide-file-text",
-              "title": "s40544-022-0688-4"
+              "title": "Surface_Texture_of_Deformable_Robotic_Fingertips_for_a_Stable_Grasp_Under_Both_Dry_and_Wet_Conditions"
             }
           }
         ]
@@ -200,6 +200,7 @@
   },
   "active": "481f651979573631",
   "lastOpenFiles": [
+    "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/s40544-022-0688-4.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
     "캡스톤디자인 2/캡디 활용 방안과 문제점.md",
     "캡스톤디자인 2/로봇팔/so100_architecture.drawio",
