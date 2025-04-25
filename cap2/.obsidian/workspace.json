@@ -11,17 +11,16 @@
             "id": "481f651979573631",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "docker/Untitled.canvas",
-                "viewState": {
-                  "x": -260,
-                  "y": -260,
-                  "zoom": 0
-                }
+                "file": "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/s40544-022-0688-4.pdf",
+                "page": 1,
+                "left": -7,
+                "top": 795,
+                "zoom": 2.047058823529412
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "s40544-022-0688-4"
             }
           }
         ]
@@ -201,10 +200,12 @@
   },
   "active": "481f651979573631",
   "lastOpenFiles": [
+    "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
     "캡스톤디자인 2/캡디 활용 방안과 문제점.md",
+    "캡스톤디자인 2/로봇팔/so100_architecture.drawio",
     "캡스톤디자인 2/로봇팔/전체 시스템 구성.md",
     "캡스톤디자인 2/로봇팔/관련 링크들.canvas",
-    "캡스톤디자인 2/로봇팔/so100_architecture.drawio",
+    "docker/Untitled.canvas",
     "캡쳐사진 모음/Untitled Diagram.svg",
     "인허가 시험용/인허가 수업/혁신의료기기법/혁신의료기기법/AMD_혁신의료기기 법/의료기기산업 육성 및 혁신의료기기 지원법_설명.pdf",
     "인허가 시험용/정리.canvas",
@@ -217,9 +218,7 @@
     "인허가 시험용/인허가 수업/Issue report/Issue report/KEIT PD 이슈리포트(19-10)-심혈관 진단치료 가이드용 기능성 융합미세영상기기 개발.pdf",
     "인허가 시험용/인허가 수업/Issue report/Issue report/(최종 보고서) 신의료기술 활용과 의료기기시장.pdf",
     "인허가 시험용 1/정리.canvas",
-    "docker/Untitled.canvas",
     "캡쳐사진 모음/Pasted image 20250423154622.png",
-    "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
     "캡스톤디자인 2/로봇팔/로봇팔 아키텍쳐.md",
     "Untitled Diagram.svg",
     "캡쳐사진 모음/Pasted image 20250416230411.png",
