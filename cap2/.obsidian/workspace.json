@@ -15,9 +15,9 @@
               "state": {
                 "file": "압축관련 논문/fleck-et-al-micro-architectured-materials-past-present-and-future.pdf",
                 "page": 1,
-                "left": -6,
-                "top": 313,
-                "zoom": 2.4705882352941178
+                "left": -100,
+                "top": 79,
+                "zoom": 1.8
               },
               "icon": "lucide-file-text",
               "title": "fleck-et-al-micro-architectured-materials-past-present-and-future"
@@ -200,6 +200,7 @@
   },
   "active": "481f651979573631",
   "lastOpenFiles": [
+    "압축관련 논문/1-s2.0-S2214914722002471-main (2).pdf",
     "압축관련 논문/Multiscale-mechanical-design-of-the-lightweight--stiff--and-d_2022_Acta-Biom.pdf",
     "압축관련 논문/Untitled.canvas",
     "압축관련 논문/1-s2.0-S0264127520304640-main.pdf",
