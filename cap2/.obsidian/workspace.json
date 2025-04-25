@@ -11,17 +11,16 @@
             "id": "481f651979573631",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "압축관련 논문/Untitled.canvas",
-                "viewState": {
-                  "x": 1241.7169816020016,
-                  "y": 57.64045523610604,
-                  "zoom": 0.49177672702662284
-                }
+                "file": "압축관련 논문/Multiscale-mechanical-design-of-the-lightweight--stiff--and-d_2022_Acta-Biom.pdf",
+                "page": 2,
+                "left": -7,
+                "top": 251,
+                "zoom": 2.046216263891339
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "Multiscale-mechanical-design-of-the-lightweight--stiff--and-d_2022_Acta-Biom"
             }
           }
         ]
@@ -201,8 +200,8 @@
   },
   "active": "481f651979573631",
   "lastOpenFiles": [
-    "압축관련 논문/Multiscale-mechanical-design-of-the-lightweight--stiff--and-d_2022_Acta-Biom.pdf",
     "압축관련 논문/Untitled.canvas",
+    "압축관련 논문/Multiscale-mechanical-design-of-the-lightweight--stiff--and-d_2022_Acta-Biom.pdf",
     "압축관련 논문/1-s2.0-S0264127520304640-main.pdf",
     "압축관련 논문/1-s2.0-S2214914722002471-main (1).pdf",
     "압축관련 논문/fleck-et-al-micro-architectured-materials-past-present-and-future.pdf",
@@ -212,7 +211,6 @@
     "압축관련 논문/1-s2.0-S0263823120308661-main.pdf",
     "압축관련 논문/A-pre-screening-study-of-honeycomb-sandwich-str_2022_Composites-Part-A--Appl.pdf",
     "압축관련 논문/중요도 높음/polymers-17-00862.pdf",
-    "압축관련 논문/중요도 높음/9a61d6b13da64cbfe1f642e4747951eb_MIT3_054S15_L5_outpl_trans.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
     "캡스톤디자인 2/캡디 활용 방안과 문제점.md",
     "캡스톤디자인 2/로봇팔/전체 시스템 구성.md",
