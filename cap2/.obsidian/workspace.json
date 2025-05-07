@@ -11,14 +11,16 @@
             "id": "481f651979573631",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ros2/혼공로봇sw ros2.md",
-                "mode": "source",
-                "source": false
+                "file": "인허가 시험용/인허가 수업/ISO 13485 세미나 자료/부경대 세미나_ISO13485.pdf",
+                "page": 1,
+                "left": -4,
+                "top": -10,
+                "zoom": 1.4465558194774348
               },
-              "icon": "lucide-file",
-              "title": "혼공로봇sw ros2"
+              "icon": "lucide-file-text",
+              "title": "부경대 세미나_ISO13485"
             }
           }
         ]
@@ -196,11 +198,11 @@
       "print:Print note": false
     }
   },
-  "active": "0db021628ccf31fe",
+  "active": "481f651979573631",
   "lastOpenFiles": [
+    "ros2/혼공로봇sw ros2.md",
     "Untitled",
     "ros2/Untitled.canvas",
-    "ros2/혼공로봇sw ros2.md",
     "압축관련 논문/fleck-et-al-micro-architectured-materials-past-present-and-future.pdf",
     "ros2",
     "압축관련 논문/Multiscale-mechanical-design-of-the-lightweight--stiff--and-d_2022_Acta-Biom.pdf",
@@ -214,7 +216,6 @@
     "압축관련 논문/1-s2.0-S0264127520304640-main.pdf",
     "압축관련 논문/1-s2.0-S2214914722002471-main (1).pdf",
     "압축관련 논문/Advances in Materials Science and Engineering - 2023 - Ashok - Design and Characterization of 2 5D Nature‐Inspired Infill.pdf",
-    "압축관련 논문/1-s2.0-S2214914722002471-main.pdf",
     "캡스톤디자인 2/캡디 활용 방안과 문제점.md",
     "docker/Untitled.canvas",
     "캡쳐사진 모음/Untitled Diagram.svg",
