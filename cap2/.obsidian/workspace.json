@@ -11,16 +11,14 @@
             "id": "481f651979573631",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "인허가 시험용/인허가 수업/ISO 13485 세미나 자료/부경대 세미나_ISO13485.pdf",
-                "page": 12,
-                "left": -2,
-                "top": -10,
-                "zoom": 1.4465558194774348
+                "file": "Untitled/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "부경대 세미나_ISO13485"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -200,20 +198,20 @@
   },
   "active": "481f651979573631",
   "lastOpenFiles": [
+    "인허가 시험용/인허가 수업/ISO 13485 세미나 자료/부경대 세미나_ISO13485.pdf",
+    "Untitled/Untitled.md",
+    "Untitled",
     "인허가 시험용/인허가 수업/ISO 13485 세미나 자료/4. 사용적합성 엔지니어링 파일(IEC 62366) 양식(업체 작성문서).pdf",
     "인허가 시험용/인허가 수업/의료기기법 2025.03/의료기기 유통 및 판매질서 유지에 관한 규칙(보건복지부령)(제01088호)(20250209).pdf",
     "인허가 시험용/인허가 수업/의료기기법 2025.03/동물용 의약품등 취급규칙(농림축산식품부령)(제00628호)(20240105).pdf",
     "인허가 시험용/인허가 수업/의료기기법 2025.03/[별표] 의료기기의 등급분류 및 지정에 관한 기준과 절차(제2조 관련)(의료기기법 시행규칙)-merged.pdf",
-    "인허가 시험용/인허가 수업/ISO 13485 세미나 자료/부경대 세미나_ISO13485.pdf",
     "ros2/혼공로봇sw ros2.md",
-    "Untitled",
     "ros2/Untitled.canvas",
     "압축관련 논문/fleck-et-al-micro-architectured-materials-past-present-and-future.pdf",
     "ros2",
     "압축관련 논문/Multiscale-mechanical-design-of-the-lightweight--stiff--and-d_2022_Acta-Biom.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/s40544-022-0688-4.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
-    "캡스톤디자인 2/로봇팔/so100_architecture.drawio",
     "캡스톤디자인 2/로봇팔/전체 시스템 구성.md",
     "캡스톤디자인 2/로봇팔/관련 링크들.canvas",
     "압축관련 논문/Untitled.canvas",
