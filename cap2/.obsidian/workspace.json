@@ -11,14 +11,16 @@
             "id": "481f651979573631",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Untitled/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "MEW/Untitled/1-s2.0-S2214860422003918-main.pdf",
+                "page": 1,
+                "left": -16,
+                "top": 797,
+                "zoom": 0.9172215897882302
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "1-s2.0-S2214860422003918-main"
             }
           }
         ]
@@ -196,21 +198,21 @@
       "print:Print note": false
     }
   },
-  "active": "0db021628ccf31fe",
+  "active": "481f651979573631",
   "lastOpenFiles": [
-    "인허가 시험용/인허가 수업/ISO 13485 세미나 자료/부경대 세미나_ISO13485.pdf",
     "Untitled/Untitled.md",
+    "MEW/Untitled/dc796ce3a9dc2c95395c3fbec030597008d8.pdf",
+    "MEW/Untitled/Adv Healthcare Materials - 2020 - Kade - Polymers for Melt Electrowriting.pdf",
+    "MEW/Untitled/Melt Electrowriting ‒ LMIS1 ‐ EPFL.html",
+    "MEW/Untitled/1-s2.0-S2468451117300156-main.pdf",
+    "MEW/Untitled/1-s2.0-S2214860422003918-main.pdf",
+    "MEW/Untitled",
+    "MEW",
+    "인허가 시험용/인허가 수업/ISO 13485 세미나 자료/부경대 세미나_ISO13485.pdf",
     "Untitled",
     "인허가 시험용/인허가 수업/ISO 13485 세미나 자료/4. 사용적합성 엔지니어링 파일(IEC 62366) 양식(업체 작성문서).pdf",
-    "인허가 시험용/인허가 수업/의료기기법 2025.03/의료기기 유통 및 판매질서 유지에 관한 규칙(보건복지부령)(제01088호)(20250209).pdf",
-    "인허가 시험용/인허가 수업/의료기기법 2025.03/동물용 의약품등 취급규칙(농림축산식품부령)(제00628호)(20240105).pdf",
-    "인허가 시험용/인허가 수업/의료기기법 2025.03/[별표] 의료기기의 등급분류 및 지정에 관한 기준과 절차(제2조 관련)(의료기기법 시행규칙)-merged.pdf",
     "ros2/혼공로봇sw ros2.md",
     "ros2/Untitled.canvas",
-    "압축관련 논문/fleck-et-al-micro-architectured-materials-past-present-and-future.pdf",
-    "ros2",
-    "압축관련 논문/Multiscale-mechanical-design-of-the-lightweight--stiff--and-d_2022_Acta-Biom.pdf",
-    "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/s40544-022-0688-4.pdf",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
     "캡스톤디자인 2/로봇팔/전체 시스템 구성.md",
     "캡스톤디자인 2/로봇팔/관련 링크들.canvas",
