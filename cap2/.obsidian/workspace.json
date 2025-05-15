@@ -11,16 +11,17 @@
             "id": "481f651979573631",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "MEW/Untitled/1-s2.0-S2214860422003918-main.pdf",
-                "page": 1,
-                "left": -16,
-                "top": 435,
-                "zoom": 0.9172215897882302
+                "file": "llm공부/Untitled.canvas",
+                "viewState": {
+                  "x": 8,
+                  "y": -2,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "1-s2.0-S2214860422003918-main"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -200,17 +201,20 @@
   },
   "active": "481f651979573631",
   "lastOpenFiles": [
+    "Pasted image 20250515153152.png",
+    "llm공부/Untitled.md",
+    "llm공부/Untitled.canvas",
+    "MEW/Untitled/1-s2.0-S2214860422003918-main.pdf",
+    "llm공부",
     "Untitled/Untitled.md",
     "MEW/Untitled/dc796ce3a9dc2c95395c3fbec030597008d8.pdf",
     "MEW/Untitled/Adv Healthcare Materials - 2020 - Kade - Polymers for Melt Electrowriting.pdf",
     "MEW/Untitled/Melt Electrowriting ‒ LMIS1 ‐ EPFL.html",
     "MEW/Untitled/1-s2.0-S2468451117300156-main.pdf",
-    "MEW/Untitled/1-s2.0-S2214860422003918-main.pdf",
     "MEW/Untitled",
     "MEW",
     "인허가 시험용/인허가 수업/ISO 13485 세미나 자료/부경대 세미나_ISO13485.pdf",
     "Untitled",
-    "인허가 시험용/인허가 수업/ISO 13485 세미나 자료/4. 사용적합성 엔지니어링 파일(IEC 62366) 양식(업체 작성문서).pdf",
     "ros2/혼공로봇sw ros2.md",
     "ros2/Untitled.canvas",
     "캡스톤디자인 2/Soft Robotics/reference/Fricitoin_Enhance/정리.canvas",
