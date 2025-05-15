@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"b0cbb33c2c033f0c","x":-117,"y":154,"width":250,"height":60,"type":"text","text":""},
 		{"id":"ec680e5261650966","type":"file","file":"Pasted image 20250515153152.png","x":-620,"y":-260,"width":400,"height":280},
 		{"id":"1c0ca93dfac867d4","type":"text","text":"Decoder : 왼쪽 맥락에서 다음 단어를 예측한다.","x":-117,"y":-32,"width":250,"height":60},
 		{"id":"2224b1a9b303a828","type":"file","file":"Pasted image 20250515153302.png","x":-620,"y":-500,"width":400,"height":190},
 		{"id":"c3f2f390aa48df7e","type":"text","text":"Encoder: 양쪽 맥락에서 단어를 예측한다.","x":-117,"y":-404,"width":250,"height":60},
-		{"id":"ea81bc50ee8571db","x":-620,"y":100,"width":400,"height":200,"type":"file","file":"Pasted image 20250515153933.png"}
+		{"id":"ea81bc50ee8571db","x":-620,"y":100,"width":400,"height":200,"type":"file","file":"Pasted image 20250515153933.png"},
+		{"id":"b0cbb33c2c033f0c","x":-117,"y":154,"width":250,"height":60,"type":"text","text":"endoder 에서 숫자 텐서 "}
 	],
 	"edges":[]
 }
