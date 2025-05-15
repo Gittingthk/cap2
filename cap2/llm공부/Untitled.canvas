@@ -10,7 +10,8 @@
 		{"id":"a37ac69a87d7c60e","x":-620,"y":-920,"width":400,"height":161,"type":"file","file":"Pasted image 20250515162237.png"},
 		{"id":"02032790c14445cb","x":-80,"y":-869,"width":250,"height":60,"type":"text","text":"한계"},
 		{"id":"afa5ab064dfd0611","x":-620,"y":540,"width":334,"height":400,"type":"file","file":"Pasted image 20250515165826.png"},
-		{"id":"a78cf0013409a1ea","x":-140,"y":600,"width":250,"height":60,"type":"text","text":"Trasformer"}
+		{"id":"4b3a92759c1e8280","x":-117,"y":457,"width":250,"height":100,"type":"text","text":"전이 학습을 위해 파인 튜닝을 이용해야한다.\n"},
+		{"id":"a78cf0013409a1ea","x":-117,"y":710,"width":250,"height":60,"type":"text","text":"Trasformer"}
 	],
 	"edges":[]
 }
