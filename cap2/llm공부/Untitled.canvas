@@ -13,7 +13,8 @@
 		{"id":"a78cf0013409a1ea","x":-117,"y":710,"width":250,"height":60,"type":"text","text":"Trasformer"},
 		{"id":"2e68ea0d373e4514","x":-1080,"y":194,"width":400,"height":185,"type":"file","file":"Pasted image 20250515171213.png"},
 		{"id":"9318f78e6f2a54a8","x":-1080,"y":-297,"width":400,"height":355,"type":"file","file":"Pasted image 20250515171241.png"},
-		{"id":"1c0ca93dfac867d4","type":"text","text":"Decoder : 왼쪽 맥락에서 다음 단어를 예측한다.","x":-117,"y":-150,"width":250,"height":60}
+		{"id":"1c0ca93dfac867d4","type":"text","text":"Decoder : 왼쪽 맥락에서 다음 단어를 예측한다.","x":-117,"y":-150,"width":250,"height":60},
+		{"id":"7b8a3d2ecdc1be7d","x":-1080,"y":650,"width":250,"height":60,"type":"text","text":"인코더-디코드, 시퀀스-시퀀스"}
 	],
 	"edges":[]
 }
