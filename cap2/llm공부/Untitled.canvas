@@ -5,7 +5,8 @@
 		{"id":"2224b1a9b303a828","type":"file","file":"Pasted image 20250515153302.png","x":-620,"y":-500,"width":400,"height":190},
 		{"id":"c3f2f390aa48df7e","type":"text","text":"Encoder: 양쪽 맥락에서 단어를 예측한다.","x":-117,"y":-404,"width":250,"height":60},
 		{"id":"ea81bc50ee8571db","x":-620,"y":100,"width":400,"height":200,"type":"file","file":"Pasted image 20250515153933.png"},
-		{"id":"b0cbb33c2c033f0c","x":-117,"y":154,"width":250,"height":166,"type":"text","text":"endoder 에서 숫자 텐서 캐스팅 to decoder star fo sequence word로 문장을 regressive method로 계속 만들어냄\n"}
+		{"id":"b0cbb33c2c033f0c","x":-117,"y":154,"width":250,"height":166,"type":"text","text":"endoder 에서 숫자 텐서 캐스팅 to decoder star fo sequence word로 문장을 regressive method로 계속 만들어냄\n"},
+		{"id":"406c0f1760ec9fca","x":-620,"y":300,"width":400,"height":157,"type":"file","file":"Pasted image 20250515154332.png"}
 	],
 	"edges":[]
 }
