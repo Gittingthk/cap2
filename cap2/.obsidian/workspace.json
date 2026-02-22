@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/53ba9f7f-e00e-4164-a00b-3ee10c761e9f.pdf",
+                "file": "논문 공부/AI_enabled organoid_bioreactor.pdf",
                 "page": 1,
                 "left": -8,
-                "top": 796,
-                "zoom": 1.9227941176470589
+                "top": 797,
+                "zoom": 1.976814113156227
               },
               "icon": "lucide-file-text",
-              "title": "53ba9f7f-e00e-4164-a00b-3ee10c761e9f"
+              "title": "AI_enabled organoid_bioreactor"
             }
           }
         ]
@@ -219,6 +219,13 @@
   },
   "active": "66d19f537998af27",
   "lastOpenFiles": [
+    "계획/Untitled.canvas",
+    "계획/실험계획.md",
+    "계획/2025-11/한 일 & 할 일.md",
+    "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
+    "논문 공부/AI/mamba/ad1fdf78-e123-40b8-b456-da3bf98c87f6.pdf",
+    "논문 공부/AI/mamba/Gu2023Mamba.pdf",
+    "논문 공부/53ba9f7f-e00e-4164-a00b-3ee10c761e9f.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
     "논문 공부/3.3관련 논문.pdf",
     "논문 공부/AI/mamba/2410.20997v1.pdf",
@@ -228,22 +235,14 @@
     "논문 공부/Untitled.md",
     "논문 공부/AI/Deep_Learning/s41598-020-65453-8.pdf",
     "논문 공부/PVA/10063822.pdf",
-    "논문 공부/PVA/Characterization_of_PVA_cryogel_for_intravascular_ultrasound_elasticity_imaging (1).pdf",
-    "논문 공부/PVA/1-s2.0-S0266353816300720-main.pdf",
-    "논문 공부/PVA/1-s2.0-S0032386122002737-main.pdf",
-    "논문 공부/Organoid_test/교수님꼐보낼거/omelyanenko-et-al-2018-extracellular-matrix-determines-biomechanical-properties-of-chondrospheres-during-their.pdf",
-    "논문 공부/Organoid_test/교수님꼐보낼거/s41598-025-03676-3.pdf",
     "ShearWave공부/Untitled.md",
     "ShearWave공부/Untitled 1.md",
-    "계획/Untitled.canvas",
-    "계획/실험계획.md",
     "Untitled/Untitled.md",
     "Untitled/콜아웃 함수.md",
     "Untitled/초음파 공부.md",
     "llm공부/Untitled 1.md",
     "llm공부/Untitled.md",
     "llm공부/Untitled.canvas",
-    "계획/2025-11/한 일 & 할 일.md",
     "docker/Untitled.canvas",
     "Day Planners/Day Planner-20251201.md",
     "계획/2025-11/2025-11-24.md",
