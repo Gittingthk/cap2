@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "논문 공부/AI_enabled organoid_bioreactor.pdf",
+                "file": "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
                 "page": 1,
-                "left": -8,
-                "top": 797,
-                "zoom": 1.976814113156227
+                "left": -14,
+                "top": 794,
+                "zoom": 1.0810111612092543
               },
               "icon": "lucide-file-text",
-              "title": "AI_enabled organoid_bioreactor"
+              "title": "s41467-024-47480-5"
             }
           }
         ]
@@ -217,8 +217,10 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "66d19f537998af27",
+  "active": "0db021628ccf31fe",
   "lastOpenFiles": [
+    "논문 공부/3.3관련 논문.pdf",
+    "논문 공부/AI_enabled organoid_bioreactor.pdf",
     "계획/Untitled.canvas",
     "계획/실험계획.md",
     "계획/2025-11/한 일 & 할 일.md",
@@ -227,7 +229,6 @@
     "논문 공부/AI/mamba/Gu2023Mamba.pdf",
     "논문 공부/53ba9f7f-e00e-4164-a00b-3ee10c761e9f.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
-    "논문 공부/3.3관련 논문.pdf",
     "논문 공부/AI/mamba/2410.20997v1.pdf",
     "논문 공부/Untitled 1.md",
     "논문 공부/Feature.md",
