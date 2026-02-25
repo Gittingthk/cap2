@@ -11,16 +11,14 @@
             "id": "66d19f537998af27",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
-                "page": 1,
-                "left": -14,
-                "top": 794,
-                "zoom": 1.0810111612092543
+                "file": "논문 공부/Untitled 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "s41467-024-47480-5"
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -217,25 +215,30 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "0db021628ccf31fe",
+  "active": "66d19f537998af27",
   "lastOpenFiles": [
+    "논문 공부/Untitled.md",
+    "논문 공부/Untitled 1.md",
+    "Untitled/1-s2.0-S1751616111000786-main.pdf",
+    "Untitled/1-s2.0-S1742706109000762-main.pdf",
+    "수학공부/수학 흐름도.md",
+    "논문 공부/도식화.canvas",
+    "논문 공부/논문리뷰.md",
+    "논문 공부/시편 고정틀/Untitled.canvas",
+    "논문 공부/시편 고정틀/Carmel_UMB_D_18_00008R1.pdf",
+    "논문 공부/시편 고정틀/설계툴/아이디어 스케치.md",
+    "논문 공부/시편 고정틀/설계툴/Onshape & Mastering 디자인 복잡도.md",
+    "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
     "논문 공부/3.3관련 논문.pdf",
     "논문 공부/AI_enabled organoid_bioreactor.pdf",
     "계획/Untitled.canvas",
     "계획/실험계획.md",
     "계획/2025-11/한 일 & 할 일.md",
-    "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
     "논문 공부/AI/mamba/ad1fdf78-e123-40b8-b456-da3bf98c87f6.pdf",
     "논문 공부/AI/mamba/Gu2023Mamba.pdf",
     "논문 공부/53ba9f7f-e00e-4164-a00b-3ee10c761e9f.pdf",
     "논문 공부/3.3관련 논문_1.pdf",
-    "논문 공부/AI/mamba/2410.20997v1.pdf",
-    "논문 공부/Untitled 1.md",
     "논문 공부/Feature.md",
-    "논문 공부/AI/Deep_Learning/1301.3781v3.pdf",
-    "논문 공부/Untitled.md",
-    "논문 공부/AI/Deep_Learning/s41598-020-65453-8.pdf",
-    "논문 공부/PVA/10063822.pdf",
     "ShearWave공부/Untitled.md",
     "ShearWave공부/Untitled 1.md",
     "Untitled/Untitled.md",
@@ -256,15 +259,9 @@
     "Untitled/Pasted image 20251114175032.png",
     "논문 공부/verasnoics/Untitled.md",
     "kimaigastudy/versasonics가이드 (b모드 활성화).md",
-    "kimaigastudy/verasonics가이드(VatageSequenceProgramming).md",
-    "수학공부/수학 흐름도.md",
-    "논문 공부/시편 고정틀/설계툴/아이디어 스케치.md",
-    "논문 공부/시편 고정틀/설계툴/Onshape & Mastering 디자인 복잡도.md",
-    "논문 공부/시편 고정틀/Untitled.canvas",
     "논문 공부/시편 고정틀/Untitled 1.canvas",
     "Untitled/Pasted image 20251023171257.png",
     "논문 공부/PVA/PVA_canvaus.canvas",
-    "논문 공부/도식화.canvas",
     "Untitled/Pasted image 20251017174655.png",
     "Untitled/Pasted image 20250805165840.png",
     "Untitled/Pasted image 20250805154044.png",
