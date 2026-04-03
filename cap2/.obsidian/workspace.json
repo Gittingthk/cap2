@@ -81,7 +81,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -235,7 +235,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "df132d2570a42de2",
+  "active": "0db021628ccf31fe",
   "lastOpenFiles": [
     "논문 공부/Untitled 1.md",
     "논문 공부/Untitled.md",
