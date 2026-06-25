@@ -4,54 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8468d3d6fff4e8bd",
+        "id": "5769cc95fa9acbdb",
         "type": "tabs",
         "children": [
           {
-            "id": "66d19f537998af27",
+            "id": "f8d8e3a34fcb5ddb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "계획/Untitled.canvas",
-                "viewState": {
-                  "x": -175,
-                  "y": -70,
-                  "zoom": -1.251760703007615
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "df132d2570a42de2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "논문 공부/Organoid_test/교수님꼐보낼거/nihms-2055304.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "nihms-2055304"
-            }
-          },
-          {
-            "id": "b811b33fd117996f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.7"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,10 +211,11 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "b811b33fd117996f",
+  "active": "f8d8e3a34fcb5ddb",
   "lastOpenFiles": [
-    "논문 공부/Organoid_test/교수님꼐보낼거/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
     "논문 공부/Organoid_test/교수님꼐보낼거/nihms-2055304.pdf",
+    "계획/Untitled.canvas",
+    "논문 공부/Organoid_test/교수님꼐보낼거/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
     "논문 공부/Organoid_test/교수님꼐보낼거/efremov2021.pdf",
     "논문 공부/Organoid_test/교수님꼐보낼거/omelyanenko-et-al-2018-extracellular-matrix-determines-biomechanical-properties-of-chondrospheres-during-their.pdf",
     "논문 공부/Organoid_test/교수님꼐보낼거/s41598-025-03676-3.pdf",
@@ -265,8 +232,6 @@
     "논문 공부/시편 고정틀/설계툴/Onshape & Mastering 디자인 복잡도.md",
     "논문 공부/(excluded) new Idea/s41467-024-47480-5.pdf",
     "논문 공부/3.3관련 논문.pdf",
-    "논문 공부/AI_enabled organoid_bioreactor.pdf",
-    "계획/Untitled.canvas",
     "계획/실험계획.md",
     "계획/2025-11/한 일 & 할 일.md",
     "논문 공부/Feature.md",
