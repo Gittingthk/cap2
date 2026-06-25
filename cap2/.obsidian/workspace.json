@@ -32,16 +32,26 @@
               "state": {
                 "file": "논문 공부/Organoid_test/교수님꼐보낼거/nihms-2055304.pdf",
                 "page": 1,
-                "left": -8,
-                "top": 796,
-                "zoom": 1.9227941176470589
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "nihms-2055304"
             }
+          },
+          {
+            "id": "b811b33fd117996f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,7 +245,7 @@
       "wikidocs:위키독스 블로그 가져오기": false
     }
   },
-  "active": "df132d2570a42de2",
+  "active": "b811b33fd117996f",
   "lastOpenFiles": [
     "논문 공부/Organoid_test/교수님꼐보낼거/Adv Materials Technologies - 2024 - Ferraro - A Low‐Cost  User‐Friendly Rheo‐Optical Compression Assay to Measure.pdf",
     "논문 공부/Organoid_test/교수님꼐보낼거/nihms-2055304.pdf",
